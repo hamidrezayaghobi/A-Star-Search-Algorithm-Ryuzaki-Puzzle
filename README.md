@@ -1,7 +1,7 @@
-# Dijkstra Search Algorithm: Tintin and criminals
+# A-Star Search Algorithm Ryuzaki Puzzle
 
 ## Problem:
-ToDo
+This GitHub repository houses a Python implementation of the Ryuzaki Puzzle, with a focus on finding the minimum cost of constructing the puzzle using the A* algorithm. Navigate a grid-based maze, collecting required items while minimizing expenditure, all thanks to the A* heuristic search.
 
 ## Input:
 1. Puzzle size (m n)
